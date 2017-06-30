@@ -1,0 +1,14 @@
+---
+layout: base
+---
+<div class="container">
+	<h1>{{ page.title }}</h1>
+
+	{{ content }}
+
+	<ul>
+		{% for link in page.links %}
+		<li><a href="{{ link.url }}">{{ link.title }}</a></li>
+		{% endfor %}
+	</ul>
+</div>
