@@ -1,5 +1,6 @@
 ---
 layout: stories
+name: fraud
 title: Fraud
 links:
 - title: First link

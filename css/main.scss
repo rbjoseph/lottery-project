@@ -1,6 +1,104 @@
 ---
 ---
+@import url('https://fonts.googleapis.com/css?family=Bitter|Open+Sans');
+
+// colours
+$repeat-winners: #A3A948;
+$repeat-winners-opaque: rgba($repeat-winners, 0.5);
+$repeat-winners-light: lighten($repeat-winners, 20%);
+$repeat-winners-dark: darken($repeat-winners, 10%);
+
+$fraud: #EDB92E;
+$fraud-light: lighten($fraud, 10%);
+$fraud-dark: darken($fraud, 10%);
+
+$collusion: #009989;
+$collusion-light: lighten($collusion, 10%);
+$collusion-dark: darken($collusion, 10%);
+
+$embezzlement: #CE1836;
+$embezzlement-light: lighten($embezzlement, 10%);
+$embezzlement-dark: darken($embezzlement, 10%);
+
+
+// fonts
+$sans: 'Open Sans', sans-serif;
+$serif: 'Bitter', serif;
+
+body {
+  font-family: $sans;
+  color: #4a4a4a;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: $serif;
+  color: #4a4a4a;
+}
+
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+  border: none;
+  .navbar-brand {
+    font-family: $serif;
+  }
+  li {
+    border-bottom: 3px solid #ccc;
+    &.repeat-winners {
+      border-bottom-color: $repeat-winners;
+      &:hover {
+        border-bottom-color: $repeat-winners-dark;
+      }
+    }
+    &.fraud {
+      border-bottom-color: $fraud;
+      &:hover {
+        border-bottom-color: $fraud-dark;
+      }
+    }
+    &.collusion {
+      border-bottom-color: $collusion;
+      &:hover {
+        border-bottom-color: $collusion-dark;
+      }
+    }
+    &.embezzlement {
+      border-bottom-color: $embezzlement;
+      &:hover {
+        border-bottom-color: $embezzlement-dark;
+      }
+    }
+  }
+}
+
+.sidebar {
+  position: absolute;
+  padding: 0 30px 10px 30px;
+  right: 0;
+  height: calc(100vh - 53px);
+  width: 40%;
+  background-color: #fcfcfc;
+  box-shadow: -5px 0px 5px -1px rgba(252,252,252,1);
+}
+
 #map {
 	max-height: calc(100vh - 100px);
 	max-width: 100vw;
+  margin-top: 20px;
+}
+
+.story {
+  .story-title {
+    color: #fff;
+    padding: 8px 13px;
+    border-radius: 4px 4px 0 0;
+    margin-bottom: 0;
+    background-color: $repeat-winners-opaque;
+  }
+  .text {
+    padding: 16px 8px;
+    &.repeat-winners {
+      background-color: #f8f8f8;
+    }
+  }
 }

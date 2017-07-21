@@ -8,7 +8,7 @@ twitter_username: lotteryproject
 
 # Build settings
 markdown: kramdown
-plugins:
+plugins_dir:
   - jekyll-seo-tag
 collections:
   stories:

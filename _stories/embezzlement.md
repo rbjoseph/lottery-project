@@ -1,5 +1,6 @@
 ---
 layout: stories
+name: embezzlement
 title: Embezzlement
 links:
 - title: First link

@@ -1,14 +1,18 @@
 ---
 layout: base
 ---
-<div class="container">
-	<h1>{{ page.title }}</h1>
-
-	{{ content }}
-
-	<ul>
-		{% for link in page.links %}
-		<li><a href="{{ link.url }}">{{ link.title }}</a></li>
-		{% endfor %}
-	</ul>
+<div class="container story {{ page.name }}">
+  <div class="row">
+    <div class="col-md-6 content">
+      <h2 class="story-title {{ page.name }}">{{ page.title }}</h2>
+      <div class="text {{ page.name }}">{{ content }}</div>
+    </div>
+    <div class="col-md-6 links">
+    	<ul>
+    		{% for link in page.links %}
+    		<li><a href="{{ link.url }}">{{ link.title }}</a></li>
+    		{% endfor %}
+    	</ul>
+    </div>
+  </div>
 </div>

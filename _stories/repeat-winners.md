@@ -1,5 +1,6 @@
 ---
 layout: stories
+name: repeat-winners
 title: Repeat Winners
 links:
 - title: First link

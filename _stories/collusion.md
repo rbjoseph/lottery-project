@@ -1,5 +1,6 @@
 ---
 layout: stories
+name: collusion
 title: Collusion
 links:
 - title: First link
