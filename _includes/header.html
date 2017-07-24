@@ -1,4 +1,4 @@
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-default navbar-fixed-top">
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -10,14 +10,15 @@
       </button>
       <a class="navbar-brand" href="/">Gaming the lottery</a>
     </div>
-
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
         {% for story in site.stories %}
-        <li class="{{ story.name }}"><a href="{{ story.url }}">{{ story.title }}</a></li>
+        <li class="{{ story.name }} {% if story.name == page.name %}active{% endif %}"><a href="{{ story.url }}">{{ story.title }}</a></li>
         {% endfor %}
-        <li class="about"><a href="about.html">About</a></li>
+        <li class="about {% if page.name == 'about.html' %}active{% endif %}"><a href="/about.html">About</a></li>
       </ul>
     </div>
   </div>
 </nav>
+
+<div class="navbar-margin">

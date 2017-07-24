@@ -1,3 +1,16 @@
+</div>
+
+  <!--
 <footer>
-  <!-- <p>Hello! This is the footer</p> -->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <h5>Stories</h5>
+        {% for story in site.stories %}
+        <div class="{{ story.name }} {% if story.name == page.name %}active{% endif %}"><a href="{{ story.url }}">{{ story.title }}</a></div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
 </footer>
+  -->
