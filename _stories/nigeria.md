@@ -1,7 +1,7 @@
 ---
 layout: stories
-name: repeat-winners
-title: Repeat Winners
+name: nigeria
+title: Nigeria
 links:
 - title: First link
   url: http://www.example.com/

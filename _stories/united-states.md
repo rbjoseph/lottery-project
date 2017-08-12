@@ -1,7 +1,7 @@
 ---
 layout: stories
-name: collusion
-title: Collusion
+name: united-states
+title: United States
 links:
 - title: First link
   url: http://www.example.com/

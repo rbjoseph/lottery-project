@@ -3,25 +3,25 @@
 @import url('https://fonts.googleapis.com/css?family=Bitter|Open+Sans');
 
 // colours
-$repeat-winners: #A3A948;
-$repeat-winners-opaque: rgba($repeat-winners, 0.3);
-$repeat-winners-light: lighten($repeat-winners, 20%);
-$repeat-winners-dark: darken($repeat-winners, 10%);
+$united-states: #A3A948;
+$united-states-opaque: rgba($united-states, 0.3);
+$united-states-light: lighten($united-states, 20%);
+$united-states-dark: darkenr($united-states, 10%);
 
-$fraud: #EDB92E;
-$fraud-opaque: rgba($fraud, 0.3);
-$fraud-light: lighten($fraud, 10%);
-$fraud-dark: darken($fraud, 10%);
+$south-africa: #EDB92E;
+$south-africa-opaque: rgba($south-africa, 0.3);
+$south-africa-light: lighten($south-africa, 10%);
+$south-africa-dark: darken($south-africa, 10%);
 
-$collusion: #009989;
-$collusion-opaque: rgba($collusion, 0.3);
-$collusion-light: lighten($collusion, 10%);
-$collusion-dark: darken($collusion, 10%);
+$mali: #009989;
+$mali-opaque: rgba($mali, 0.3);
+$mali-light: lighten($mali, 10%);
+$mali-dark: darken($mali, 10%);
 
-$embezzlement: #CE1836;
-$embezzlement-opaque: rgba($embezzlement, 0.3);
-$embezzlement-light: lighten($embezzlement, 10%);
-$embezzlement-dark: darken($embezzlement, 10%);
+$switzerland: #CE1836;
+$switzerland-opaque: rgba($switzerland, 0.3);
+$switzerland-light: lighten($switzerland, 10%);
+$switzerland-dark: darken($switzerland, 10%);
 
 
 // fonts
@@ -105,28 +105,28 @@ h1, h2, h3, h4, h5 {
       font-weight: bold;
       font-size: 13px;
     }
-    &.repeat-winners {
-      border-bottom-color: $repeat-winners;
+    &.united-states {
+      border-bottom-color: $united-states;
       &:hover {
-        border-bottom-color: $repeat-winners-dark;
+        border-bottom-color: $united-states-dark;
       }
     }
-    &.fraud {
-      border-bottom-color: $fraud;
+    &.south-africa {
+      border-bottom-color: $south-africa;
       &:hover {
-        border-bottom-color: $fraud-dark;
+        border-bottom-color: $south-africa-dark;
       }
     }
-    &.collusion {
-      border-bottom-color: $collusion;
+    &.mali {
+      border-bottom-color: $mali;
       &:hover {
-        border-bottom-color: $collusion-dark;
+        border-bottom-color: $mali-dark;
       }
     }
-    &.embezzlement {
-      border-bottom-color: $embezzlement;
+    &.switzerland {
+      border-bottom-color: $switzerland;
       &:hover {
-        border-bottom-color: $embezzlement-dark;
+        border-bottom-color: $switzerland-dark;
       }
     }
   }
@@ -163,17 +163,17 @@ h1, h2, h3, h4, h5 {
     }
     border-left: 3px solid;
     padding-bottom: 50px;
-    &.repeat-winners {
-      border-left-color: $repeat-winners;
+    &.united-states {
+      border-left-color: $united-states;
     }
-    &.fraud {
-      border-left-color: $fraud;
+    &.south-africa {
+      border-left-color: $south-africa;
     }
-    &.collusion {
-      border-left-color: $collusion;
+    &.mali {
+      border-left-color: $mali;
     }
-    &.embezzlement {
-      border-left-color: $embezzlement;
+    &.switzerland {
+      border-left-color: $switzerland;
     }
   }
   .links {

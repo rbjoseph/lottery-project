@@ -1,7 +1,7 @@
 ---
 layout: stories
-name: fraud
-title: Fraud
+name: south-africa
+title: South Africa
 links:
 - title: First link
   url: http://www.example.com/

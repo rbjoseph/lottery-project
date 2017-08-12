@@ -1,7 +1,7 @@
 ---
 layout: stories
-name: embezzlement
-title: Embezzlement
+name: switzerland
+title: Switzerland
 links:
 - title: First link
   url: http://www.example.com/
