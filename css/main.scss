@@ -48,14 +48,17 @@ h1, h2, h3, h4, h5 {
 }
 
 #front-overlay {
+  text-decoration: none;
   width: 100%;
   min-height: 100vh;
   z-index: 2000;
   background-image: url("/img/overlay.jpg");
   background-position: center;
   position: absolute;
-  left: 0;
-  top: 0;
+  right: 0;
+  bottom: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
   .title, .read-more, .subtitle {
     color: #fff;
     text-align: center;
@@ -68,11 +71,23 @@ h1, h2, h3, h4, h5 {
     line-height: 64px;
     text-shadow: 2px 2px 15px rgba(255, 255, 255, 1);
     font-weight: bold;
+    @media (max-width: 768px) {
+      font-size: 45px;
+      line-height: 45px;
+    }
+    @media (max-width: 550px) {
+      font-size: 28px;
+      line-height: 28px;
+    }
   }
   .subtitle {
     font-family: $serif;
     font-size: 20px;
     line-height: 20px;
+    @media (max-width: 768px) {
+      font-size: 16px;
+      line-height: 22px;
+    }
   }
   .read-more {
     font-size: 25px;

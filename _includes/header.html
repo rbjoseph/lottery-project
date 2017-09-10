@@ -15,9 +15,6 @@
         {% for story in site.stories %}
         <li class="{{ story.name }} {% if story.name == page.name %}active{% endif %}"><a href="{{ story.url }}">{{ story.title }}</a></li>
         {% endfor %}
-        <li class="about {% if page.name == 'wla.html' %}active{% endif %}"><a href="/wla.html">World Lottery Association</a></li>
-        <li class="about {% if page.name == 'gtech-igt.html' %}active{% endif %}"><a href="/gtech-igt.html">GTech/IGT</a></li>
-        <li class="about {% if page.name == 'about.html' %}active{% endif %}"><a href="/about.html">About</a></li>
       </ul>
     </div>
   </div>

@@ -3,7 +3,7 @@ layout: base
 ---
 <div class="container story {{ page.name }}">
   <div class="row {{ page.name }}">
-    <div class="col-md-8 content {{ page.name }}">
+    <div class="col-md-6 content {{ page.name }}">
       <h2 class="story-title {{ page.name }}">{{ page.title }}
         <div class="page-share pull-right" role="group">
           <a href="#" class="twitter"><img src="/img/twitter.svg"> Twitter</a>
@@ -12,7 +12,7 @@ layout: base
       </h2>
       <div class="{{ page.name }}">{{ content }}</div>
     </div>
-    <div class="col-md-4 links">
+    <div class="col-md-6 links">
       <h2>&nbsp;</h2>
   		{% for link in page.links %}
         <div class="single-link {{ page.name }}">
