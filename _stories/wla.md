@@ -1,5 +1,5 @@
 ---
-layout: stories
+layout: story
 name: wla
 title: World Lottery Association
 ---

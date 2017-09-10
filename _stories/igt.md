@@ -1,5 +1,5 @@
 ---
-layout: stories
+layout: story
 name: igt
 title: IGT
 links:

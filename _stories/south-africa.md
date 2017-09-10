@@ -1,5 +1,5 @@
 ---
-layout: stories
+layout: story
 name: south-africa
 title: South Africa
 links:

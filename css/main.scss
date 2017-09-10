@@ -3,26 +3,25 @@
 @import url('https://fonts.googleapis.com/css?family=Bitter|Open+Sans');
 
 // colours
-$united-states: #A3A948;
-$united-states-opaque: rgba($united-states, 0.3);
-$united-states-light: lighten($united-states, 20%);
-$united-states-dark: darkenr($united-states, 10%);
+$green: #A3A948;
+$green-opaque: rgba($green, 0.3);
+$green-light: lighten($green, 20%);
+$green-dark: darkenr($green, 10%);
 
-$south-africa: #EDB92E;
-$south-africa-opaque: rgba($south-africa, 0.3);
-$south-africa-light: lighten($south-africa, 10%);
-$south-africa-dark: darken($south-africa, 10%);
+$yellow: #EDB92E;
+$yellow-opaque: rgba($yellow, 0.3);
+$yellow-light: lighten($yellow, 10%);
+$yellow-dark: darken($yellow, 10%);
 
-$mali: #009989;
-$mali-opaque: rgba($mali, 0.3);
-$mali-light: lighten($mali, 10%);
-$mali-dark: darken($mali, 10%);
+$turqouise: #009989;
+$turqouise-opaque: rgba($turqouise, 0.3);
+$turqouise-light: lighten($turqouise, 10%);
+$turqouise-dark: darken($turqouise, 10%);
 
-$switzerland: #CE1836;
-$switzerland-opaque: rgba($switzerland, 0.3);
-$switzerland-light: lighten($switzerland, 10%);
-$switzerland-dark: darken($switzerland, 10%);
-
+$red: #CE1836;
+$red-opaque: rgba($red, 0.3);
+$red-light: lighten($red, 10%);
+$red-dark: darken($red, 10%);
 
 // fonts
 $sans: 'Open Sans', sans-serif;
@@ -31,7 +30,7 @@ $serif: 'Bitter', serif;
 body {
   font-family: $sans;
   color: #4a4a4a;
-  &.story-page {
+  &.story-page, &.about-page {
     background-color: #e5e4e4;
   }
 }
@@ -52,7 +51,7 @@ h1, h2, h3, h4, h5 {
   width: 100%;
   min-height: 100vh;
   z-index: 2000;
-  background-image: url("/img/overlay.jpg");
+  background-image: url("/img/output.jpg");
   background-position: center;
   position: absolute;
   right: 0;
@@ -95,10 +94,8 @@ h1, h2, h3, h4, h5 {
     font-weight: bold;
     margin-top: 40px;
     padding: 8px 16px;
-    border-top: 2px solid rgba(255,255,255,0.85);
-    border-bottom: 2px solid rgba(255,255,255,0.85);
     cursor: pointer;
-    background-color: rgba(0,0,0,0.45);
+    background-color: rgba(255,0,0,0.45);
     &:hover {
       text-decoration: none;
     }
@@ -111,38 +108,20 @@ h1, h2, h3, h4, h5 {
   border: none;
   background-color: #fff;
   box-shadow: 0px 3px 1px -2px #ccc;
+  .glyphicon {
+    padding-right: 10px;
+  }
   .navbar-brand {
     font-family: $serif;
   }
   li {
-    border-bottom: 3px solid #ccc;
+    border-bottom: 3px solid $red;
     a {
       font-weight: bold;
       font-size: 13px;
     }
-    &.united-states {
-      border-bottom-color: $united-states;
-      &:hover {
-        border-bottom-color: $united-states-dark;
-      }
-    }
-    &.south-africa {
-      border-bottom-color: $south-africa;
-      &:hover {
-        border-bottom-color: $south-africa-dark;
-      }
-    }
-    &.mali {
-      border-bottom-color: $mali;
-      &:hover {
-        border-bottom-color: $mali-dark;
-      }
-    }
-    &.switzerland {
-      border-bottom-color: $switzerland;
-      &:hover {
-        border-bottom-color: $switzerland-dark;
-      }
+    &:hover {
+      border-bottom-color: $red-dark;
     }
   }
 }
@@ -156,16 +135,29 @@ h1, h2, h3, h4, h5 {
     position: absolute;
     padding: 10px 80px 0 30px;
     right: 0;
-    width: 42%;
+    width: 48%;
     height: calc(100vh - 53px);
     background-color: #fafafa;
     box-shadow: -3px 0px 2px -1px #bbb;
+    overflow: scroll;
+    overflow-x: hidden;
+    ul li {
+      margin-bottom: 20px;
+    }
+    .main {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .sub {
+      margin-bottom: 15px;
+    }
   }
 }
 
 #map {
 	max-height: calc(100vh - 53px);
 	max-width: 100vw;
+  margin-left: -50px;
 }
 
 .story {
@@ -174,30 +166,34 @@ h1, h2, h3, h4, h5 {
   }
   .content {
     @media (min-width: 992px) {
-      padding: 0 30px;
     }
-    border-left: 3px solid;
     padding-bottom: 50px;
-    &.united-states {
-      border-left-color: $united-states;
-    }
-    &.south-africa {
-      border-left-color: $south-africa;
-    }
-    &.mali {
-      border-left-color: $mali;
-    }
-    &.switzerland {
-      border-left-color: $switzerland;
-    }
+    border-left-color: $red;
   }
   .links {
-    .single-link {
-      background-color: #f8f8f8;
-      border-left: 2px solid #e5e4e4;
-      padding: 4px 8px 8px 8px;
-      margin-bottom: 16px;
+    img {
+      width: 100%;
     }
+    .info {
+      padding: 10px;
+      background-color: #efefef;
+      min-height: 210px;
+      margin-bottom: 40px;
+      .title, .author {
+        padding-bottom: 15px;
+      }
+      .date, .paper {
+        color: #666;
+      }
+      .title {
+        font-size: 18px;
+      }
+    }
+  }
+  .unhide {
+    color: $red;
+    cursor: pointer;
+    font-weight: bold;
   }
   .page-share {
     margin-top: -5px;
@@ -237,6 +233,12 @@ h1, h2, h3, h4, h5 {
   }
   img {
     width: 100%;
+  }
+}
+
+.about-page {
+  .about {
+    background-color: #fff;
   }
 }
 
