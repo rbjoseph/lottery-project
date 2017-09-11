@@ -14,10 +14,11 @@ layout: base
         {{ content }}
       </div>
     </div>
+    {% if page.links %}
     <h2>Stories</h2>
     <div class="row links">
-  		{% for link in page.links %}
-        <div class="single-link col-sm-6 col-md-4">
+      {% for link in page.links %}
+        <div class="single-link col-sm-6">
           <a href="{{ link.url }}"><img src="/img/stories/{{ link.image }}"></a>
           <div class="info">
             <div class="title"><a href="{{ link.url }}">{{ link.title }}</a></div>
@@ -28,7 +29,8 @@ layout: base
             </div>
           </div>
         </div>
-  		{% endfor %}
+      {% endfor %}
+    {% endif %}
     </div>
   </div>
 </div>

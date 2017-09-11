@@ -32,3 +32,9 @@ VIII. the WLA as NPO association in Switzerland is subject to legal and financia
 IX. Can we access disaggregated financials from 1999?
 
 X. Does WLA by-laws require a code of conduct from members on transparency and anti-corruption - specifically, partner states they may be involved with?
+
+<h3>WLA's statement in regards to these questions</h3>
+
+<embed src="/img/stories/wla-statement.pdf" width="100%" height="800" type='application/pdf'>
+
+<a target="_blank" href="/img/stories/wla-statement.pdf">Open in new tab</a>

@@ -109,7 +109,7 @@ h1, h2, h3, h4, h5 {
   background-color: #fff;
   box-shadow: 0px 3px 1px -2px #ccc;
   .glyphicon {
-    padding-right: 10px;
+    padding-right: 10px;  
   }
   .navbar-brand {
     font-family: $serif;
@@ -133,7 +133,7 @@ h1, h2, h3, h4, h5 {
 @media (min-width: 992px) {
   .sidebar {
     position: absolute;
-    padding: 10px 80px 0 30px;
+    padding: 10px 30px;
     right: 0;
     width: 48%;
     height: calc(100vh - 53px);
@@ -160,6 +160,23 @@ h1, h2, h3, h4, h5 {
   margin-left: -50px;
 }
 
+.container {
+  &.story, &.about, &.footer {
+    @media (min-width: 992px) {
+      width: 700px !important;
+    }
+    @media (min-width: 1200px) {
+      width: 700px !important;
+    }
+  }
+}
+
+.container {
+  &.story, &.about {
+    padding-bottom: 50px;
+  }
+}
+
 .story {
   &.container {
     background-color: #fff;
@@ -167,7 +184,6 @@ h1, h2, h3, h4, h5 {
   .content {
     @media (min-width: 992px) {
     }
-    padding-bottom: 50px;
     border-left-color: $red;
   }
   .links {
