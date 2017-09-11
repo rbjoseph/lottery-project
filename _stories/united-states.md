@@ -68,4 +68,4 @@ Special thanks go to Statistics Professor [Philip Stark](https://twitter.com/phi
 
 <p class="more-end"></p>
 
-<div class="unhide">Read more</div>
+<div class="unhide">Read more...</div>

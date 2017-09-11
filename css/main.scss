@@ -3,25 +3,35 @@
 @import url('https://fonts.googleapis.com/css?family=Bitter|Open+Sans');
 
 // colours
-$green: #A3A948;
-$green-opaque: rgba($green, 0.3);
-$green-light: lighten($green, 20%);
-$green-dark: darkenr($green, 10%);
+$red: #CE1836;
+$red-opaque: rgba($red, 0.3);
+$red-light: lighten($red, 10%);
+$red-dark: darken($red, 10%);
+
+$orange: #CE8e18;
+$orange-opaque: rgba($orange, 0.3);
+$orange-light: lighten($orange, 10%);
+$orange-dark: darken($orange, 10%);
 
 $yellow: #EDB92E;
 $yellow-opaque: rgba($yellow, 0.3);
 $yellow-light: lighten($yellow, 10%);
 $yellow-dark: darken($yellow, 10%);
 
-$turqouise: #009989;
-$turqouise-opaque: rgba($turqouise, 0.3);
-$turqouise-light: lighten($turqouise, 10%);
-$turqouise-dark: darken($turqouise, 10%);
+$green: #A3A948;
+$green-opaque: rgba($green, 0.3);
+$green-light: lighten($green, 20%);
+$green-dark: darkenr($green, 10%);
 
-$red: #CE1836;
-$red-opaque: rgba($red, 0.3);
-$red-light: lighten($red, 10%);
-$red-dark: darken($red, 10%);
+$blue: #4876a8;
+$blue-opaque: rgba($blue, 0.3);
+$blue-light: lighten($blue, 20%);
+$blue-dark: darkenr($blue, 10%);
+
+$purple: #009989;
+$purple-opaque: rgba($purple, 0.3);
+$purple-light: lighten($purple, 10%);
+$purple-dark: darken($purple, 10%);
 
 // fonts
 $sans: 'Open Sans', sans-serif;
@@ -115,13 +125,28 @@ h1, h2, h3, h4, h5 {
     font-family: $serif;
   }
   li {
-    border-bottom: 3px solid $red;
+    border-bottom: 3px solid #ccc;
+    &:nth-of-type(1n) {
+      border-bottom-color: $red;
+    }
+    &:nth-of-type(2n) {
+      border-bottom-color: $orange;
+    }
+    &:nth-of-type(3n) {
+      border-bottom-color: $yellow;
+    }
+    &:nth-of-type(4n) {
+      border-bottom-color: $green;
+    }
+    &:nth-of-type(5n) {
+      border-bottom-color: $blue;
+    }
+    &:nth-of-type(6n) {
+      border-bottom-color: $purple;
+    }
     a {
       font-weight: bold;
       font-size: 13px;
-    }
-    &:hover {
-      border-bottom-color: $red-dark;
     }
   }
 }
@@ -158,6 +183,13 @@ h1, h2, h3, h4, h5 {
 	max-height: calc(100vh - 53px);
 	max-width: 100vw;
   margin-left: -50px;
+  a {
+    &:hover {
+      text-decoration: none;
+      fill-opacity: 1 !important;
+      opacity: 1 !important;
+    }
+  }
 }
 
 .container {
@@ -207,7 +239,6 @@ h1, h2, h3, h4, h5 {
     }
   }
   .unhide {
-    color: $red;
     cursor: pointer;
     font-weight: bold;
   }
@@ -268,5 +299,8 @@ footer {
     &:hover {
       color: #fff;
     }
+  }
+  .contact a {
+    text-decoration: underline;
   }
 }
