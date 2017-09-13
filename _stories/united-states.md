@@ -69,3 +69,5 @@ Special thanks go to Statistics Professor [Philip Stark](https://twitter.com/phi
 <p class="more-end"></p>
 
 <div class="unhide">Read more...</div>
+
+<a target="_blank" class="btn btn-download btn-primary" href="https://drive.google.com/open?id=0ByWDMpg4ArbNOW5aWEhmdURleFU"><span class="glyphicon glyphicon-save" aria-hidden="true"></span> Download the data</a>
