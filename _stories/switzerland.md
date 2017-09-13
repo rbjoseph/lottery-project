@@ -3,6 +3,8 @@ layout: story
 name: switzerland
 title: Switzerland
 ---
+_[This story first appeared on eNCA.com on Tuesday 15 August 2017](http://www.enca.com/world/the-global-lottery-industrys-little-known-nerve-centre)_
+
 If the global lottery industry is a living organism, a strong argument can be made that its nerve center is Basel, Switzerland.
   
 There, on Lange Gasse 20, stands the headquarters of the [World Lottery Association](https://www.world-lotteries.org/about-us/our-offices)(WLA). Since its inception in 1999, the self-described lobbying group has sought to [fulfill its mission](https://www.world-lotteries.org/about-us/about-the-wla) of supporting state lotteries’ growth around the world and upholding standards of ethical conduct, charitable giving and responsible gambling.
