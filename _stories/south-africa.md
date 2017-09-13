@@ -47,25 +47,22 @@ links:
   paper: eNCA
 ---
 
-### The team
-
-In South Africa the Gaming the Lottery team was headed up by Raymond Joseph. Others involved were data journalists Daniela Lepiz and Roxanne Joseph, data analyst Adi Eyal and data wrangler/analyst Damian Schlechter and, [OCCRP ](https://www.occrp.org/en)Africa editor Khadija Sharife. [Trace](https://openup.org.za/trace), a project of civic tech organisation [OpenUp](http://www.openup.org.za/) scraped the lottery data for a search tool and also assisted with research, analysis and infographics. The [Fund for Investigative Journalism](http://fij.org/) and Trust Africa supported the project. A special thanks to Seamus Reynolds for additional research and support.
-
 ### Who’s received money from lottery, how much and when? Use this tool to find out
-
-<a target="_blank" href="https://public.tableau.com/views/NLCFunding/Dashboard?:embed=y&:display_count=yes"><img src="/img/sa-tableau.png"></a>
 
 Since the first grants to “good causes” were made by the South African Lottery in 2002, thousands of organisations have received funding of over R22-billion.  
 
 Lists of successful funding applications are published each year in the [annual reports](http://www.nlcsa.org.za/annual-reports/) of the National Lottery Commission (NLC). There are four categories under which grants are awarded: Charities, Arts, Culture and National Heritage, Sport and Recreation and Miscellaneous.
 
-<p class="more-start"></p>
-
 But checking through the printed lists of grants is time consuming and not easy to do, so few people, including journalists, ever do so.
+
+<a target="_blank" href="https://public.tableau.com/views/NLCFunding/Dashboard?:embed=y&:display_count=yes"><img src="/img/sa-tableau.png"></a>
 
 So we’ve made it simple to check who received funding, when and how much using a simple tool built by [OpenUp](https://openup.org.za/), a Cape Town-based civic tech organisation dedicated to transparency. All the data in the tool was [scraped ](https://en.wikipedia.org/wiki/Data_scraping)from the official NLC annual reports.
 
+
 Be aware that, while in some cases we have cleaned up the data, grantees are sometimes listed in the tool as they appear in the NLC’s annual reports. This means that grants to a single organisation may be listed under several different names. We recommend that you start with the name of an organisation and then try keywords in its name, as well as possible variants of the name: e.g. South African and SA Society for Prevention of Cruelty to Animals alternatives when searching for a beneficiary to ensure that you include all grants.
+
+<p class="more-start"></p>
 
 If an organisation has an acronym, in this case SPCA, search for that too. Or if looking for a school or schools and are not sure of their exact names, begin your search with “school” and then search through the results for the one/s you’re looking for.  
 
@@ -80,6 +77,10 @@ A percentage of the weekly proceeds are paid over by the licensed lottery operat
 The money is allocated in terms of four categories: Charities, Sports and Recreation, Arts, Culture and National Heritage and Miscellaneous. Over the years almost R22- billion has been granted to “good causes”.  
 
 Adjudications on funding applications are done by committees – known as distributing agencies – which are appointed by the Minister of Trade and Industry.
+
+### The team
+
+In South Africa the Gaming the Lottery team was headed up by Raymond Joseph. Others involved were data journalists Daniela Lepiz and Roxanne Joseph, data analyst Adi Eyal and data wrangler/analyst Damian Schlechter and, [OCCRP ](https://www.occrp.org/en)Africa editor Khadija Sharife. [Trace](https://openup.org.za/trace), a project of civic tech organisation [OpenUp](http://www.openup.org.za/) scraped the lottery data for a search tool and also assisted with research, analysis and infographics. The [Fund for Investigative Journalism](http://fij.org/) and Trust Africa supported the project. A special thanks to Seamus Reynolds for additional research and support.
 
 <p class="more-end"></p>
 
