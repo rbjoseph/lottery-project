@@ -47,7 +47,7 @@ links:
   paper: eNCA
 ---
 
-### Who’s received money from lottery, how much and when? Use this tool to find out
+### Who’s received money from lottery, how much and when? Use this tool to find out.
 
 Since the first grants to “good causes” were made by the South African Lottery in 2002, thousands of organisations have received funding of over R22-billion.  
 

@@ -3,7 +3,7 @@ layout: story
 name: wla
 title: World Lottery Association
 ---
-_[This story first appeared on eNCA.com on Tuesday 15 August 2017](http://www.enca.com/world/the-global-lottery-industrys-little-known-nerve-centre)_
+_[This story first appeared on eNCA.com on Tuesday 15 August 2017](http://www.enca.com/world/the-global-lottery-industrys-little-known-nerve-centre)_.
 
 If the global lottery industry is a living organism, a strong argument can be made that its nerve center is Basel, Switzerland.
 

@@ -4,7 +4,7 @@ name: igt
 title: IGT
 ---
 
-_[This story first appeared on eNCA.com on Monday 14 August 2017](https://www.enca.com/south-africa/gaming-the-system)_
+_[This story first appeared on eNCA.com on Monday 14 August 2017](https://www.enca.com/south-africa/gaming-the-system)_.
 
 Helen Dlamini has half a would-be president’s surname, 10 slices of house brand polony, and a half liter of milk as she stands in line at the local Spar in Durban, South Africa.
 
