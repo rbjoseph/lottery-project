@@ -9,6 +9,12 @@ links:
   url: http://www.pennlive.com/watchdog/page/defying_the_odds.html
   image: pennlive.jpg
   paper: PennLive
+- title: Ohio Lottery's frequent winners grab top prizes amid improbable odds 
+  author: John Caniglia
+  date: 2017-09-13
+  url: http://www.cleveland.com/metro/index.ssf/2017/09/ohio_lotterys_frequent_winners.html
+  image: cleveland.jpg
+  paper: cleveland.com
 - title: In System With Little Oversight, Connecticut's Biggest Lottery Winners Often Pay Huge Price 
   author: Matthew Kauffman, Dave Altimari, and Jon William Allsop
   date: 2017-08-17
