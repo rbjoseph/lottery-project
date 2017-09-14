@@ -3,6 +3,12 @@ layout: story
 name: united-states
 title: United States
 links:
+- title: Defying the Odds 
+  author: Daniel Simmons-Ritchie and Jeff Kelly Lowenstein
+  date: 2017-09-13
+  url: http://www.pennlive.com/watchdog/page/defying_the_odds.html
+  image: pennlive.jpg
+  paper: PennLive
 - title: In System With Little Oversight, Connecticut's Biggest Lottery Winners Often Pay Huge Price 
   author: Matthew Kauffman, Dave Altimari, and Jon William Allsop
   date: 2017-08-17
