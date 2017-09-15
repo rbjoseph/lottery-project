@@ -2,6 +2,7 @@
 layout: story
 name: south-africa
 title: South Africa
+story-title: South Africa
 links:
 - title: "Gaming the Lottery: Billions pour into SA Olympic body’s coffers"
   author: Raymond Joseph
