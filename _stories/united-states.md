@@ -4,6 +4,12 @@ name: united-states
 title: United States
 story-title: "Defying the odds"
 links:
+- title: A nationwide reporting adventure tracks improbably frequent lottery winners 
+  author: Jon Allsop, Selin Bozkaya, Jeremy Devon House, Jeff Kelly Lowenstein, Ayanna Runcie, and Daniel Simmons-Ritchie
+  date: 2017-09-13
+  url: https://www.cjr.org/watchdog/lottery-winners-foia-reporting.php
+  image: cjr.jpg
+  paper: Columbia Journalism Review
 - title: Defying the Odds 
   author: Daniel Simmons-Ritchie and Jeff Kelly Lowenstein
   date: 2017-09-13
