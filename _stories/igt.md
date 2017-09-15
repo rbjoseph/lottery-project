@@ -2,7 +2,7 @@
 layout: story
 name: igt
 title: IGT
-story-title: "Gaming the system"
+story-title: "Gaming the poor"
 ---
 _[This story first appeared on eNCA.com on Monday 14 August 2017](https://www.enca.com/south-africa/gaming-the-system)_.
 

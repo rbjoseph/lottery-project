@@ -2,7 +2,7 @@
 layout: story
 name: united-states
 title: United States
-story-title: "Defying all the odds"
+story-title: "Defying the odds"
 links:
 - title: Defying the Odds 
   author: Daniel Simmons-Ritchie and Jeff Kelly Lowenstein
