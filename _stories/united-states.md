@@ -4,6 +4,12 @@ name: united-states
 title: United States
 story-title: "Defying the odds"
 links:
+- title: If the Lottery won't investigate frequent winners, the Auditor General, Attorney General need to do it for them 
+  author: PennLive Editorial Board
+  date: 2017-09-15
+  url: http://www.pennlive.com/opinion/2017/09/if_the_lottery_wont_investigat.html
+  image: pennlive-2.jpg
+  paper: PennLive
 - title: A nationwide reporting adventure tracks improbably frequent lottery winners 
   author: Jon Allsop, Selin Bozkaya, Jeremy Devon House, Jeff Kelly Lowenstein, Ayanna Runcie, and Daniel Simmons-Ritchie
   date: 2017-09-13
