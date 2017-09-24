@@ -130,19 +130,19 @@ h1, h2, h3, h4, h5 {
       border-bottom-color: $red;
     }
     &:nth-of-type(2n) {
-      border-bottom-color: $purple;
-    }
-    &:nth-of-type(3n) {
       border-bottom-color: $orange;
     }
-    &:nth-of-type(4n) {
+    &:nth-of-type(3n) {
       border-bottom-color: $yellow;
     }
-    &:nth-of-type(5n) {
+    &:nth-of-type(4n) {
       border-bottom-color: $green;
     }
-    &:nth-of-type(6n) {
+    &:nth-of-type(5n) {
       border-bottom-color: $blue;
+    }
+    &:nth-of-type(6n) {
+      border-bottom-color: $purple;
     }
     &:nth-of-type(7n) {
       border-bottom-color: #666;
