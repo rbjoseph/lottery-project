@@ -1,7 +1,7 @@
 ---
 layout: story
 name: wla
-title: World Lottery Association
+title: WLA
 story-title: "The heart of the global lottery industry"
 ---
 _[This story first appeared on eNCA.com on Tuesday 15 August 2017](http://www.enca.com/world/the-global-lottery-industrys-little-known-nerve-centre)_.
