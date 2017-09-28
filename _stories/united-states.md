@@ -4,6 +4,18 @@ name: united-states
 title: United States
 story-title: "Defying the odds"
 links:
+- title: GVSU professor on team exposing the gaming of state lottery systems 
+  author: Monica Scott
+  date: 2017-09-27
+  url: http://www.mlive.com/news/grand-rapids/index.ssf/2017/09/gvsu_professor_on_team_exposin.html
+  image: mlive.jpg
+  paper: MLive
+- title: Beating the odds or fraud? It’s really hard to find out if someone’s gaming the Michigan Lottery 
+  author: Stateside Staff
+  date: 2017-09-27
+  url: http://michiganradio.org/post/beating-odds-or-fraud-it-s-really-hard-find-out-if-someone-s-gaming-michigan-lottery
+  image: michiganradio.jpg
+  paper: Michigan Radio
 - title: Auditor General examining unusually frequent lottery wins identified by PennLive 
   author: Daniel Simmons-Ritchie
   date: 2017-09-26
