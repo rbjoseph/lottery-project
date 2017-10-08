@@ -4,6 +4,18 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Jackpot Tax Avoidance: How One Lottery Company Hides its Billions"
+  author: Jeff Kelly Lowenstein and Raymond Joseph
+  date: 2017-10-08
+  url: ../files/the-global-gamble-lowenstein-joseph-wpj.pdf
+  image: wpj.jpg
+  paper: <a href="http://wpj.dukejournals.org/content/34/3/97.full">World Policy Journal</a>
+- title: "Jackpot Tax Avoidance: How One Lottery Company Hides its Billions"
+  author: Khadija Sharife
+  date: 2017-10-08
+  url: ../files/jackpot-tax-avoidance-khadija-sharife-wpj.pdf
+  image: wpj.jpg
+  paper: <a href="http://wpj.dukejournals.org/content/34/3/99.full">World Policy Journal</a>
 - title: "Gaming the Lottery: Billions pour into SA Olympic body’s coffers"
   author: Raymond Joseph
   date: 2017-08-31
