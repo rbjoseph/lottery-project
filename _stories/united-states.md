@@ -4,6 +4,18 @@ name: united-states
 title: United States
 story-title: "Defying the odds"
 links:
+- title: "Jackpot Tax Avoidance: How One Lottery Company Hides its Billions"
+  author: Jeff Kelly Lowenstein and Raymond Joseph
+  date: 2017-10-08
+  url: ../files/the-global-gamble-lowenstein-joseph-wpj.pdf
+  image: wpj.jpg
+  paper: <a href="http://wpj.dukejournals.org/content/34/3/97.full">World Policy Journal</a>
+- title: "Jackpot Tax Avoidance: How One Lottery Company Hides its Billions"
+  author: Khadija Sharife
+  date: 2017-10-08
+  url: ../files/jackpot-tax-avoidance-khadija-sharife-wpj.pdf
+  image: wpj.jpg
+  paper: <a href="http://wpj.dukejournals.org/content/34/3/99.full">World Policy Journal</a>
 - title: GVSU professor on team exposing the gaming of state lottery systems 
   author: Monica Scott
   date: 2017-09-27
