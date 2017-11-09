@@ -4,7 +4,7 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
-- title: "Jackpot Tax Avoidance: How One Lottery Company Hides its Billions"
+- title: "The Global Gamble"
   author: Jeff Kelly Lowenstein and Raymond Joseph
   date: 2017-10-08
   url: ../files/the-global-gamble-lowenstein-joseph-wpj.pdf
