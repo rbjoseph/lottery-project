@@ -4,7 +4,19 @@ name: united-states
 title: United States
 story-title: "Defying the odds"
 links:
-- title: "Jackpot Tax Avoidance: How One Lottery Company Hides its Billions"
+- title: "Feel like you belong"
+  author: Jeff Kelly Lowenstein and Alan Headbloom
+  date: 2017-10-31
+  url: https://www.youtube.com/watch?v=PILPYG7npqw
+  image: belong.jpg
+  paper: YouTube
+- title: "World Policy On Air, Ep. 143: The Global Gamble"
+  author: World Policy On Air
+  date: 2017-10-26
+  url: http://www.worldpolicy.org/blog/2017/10/27/world-policy-air-ep-143-global-gamble
+  image: wp-blog.jpg
+  paper: World Policy Institute
+- title: "The Global Gamble"
   author: Jeff Kelly Lowenstein and Raymond Joseph
   date: 2017-10-08
   url: ../files/the-global-gamble-lowenstein-joseph-wpj.pdf
