@@ -4,6 +4,18 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Following the path of the Lotto millions in Vhembe"
+  author: Anton van Zyl
+  date: 2017-11-19
+  url: https://www.limpopomirror.co.za/articles/news/44961/2017-11-19/following-the-path-of-the-lotto-millions-in-vhembeto
+  image: limpopo-mirror.jpg
+  paper: Limpopo Mirror
+- title: "Our City: Who Pays The Lotto"
+  author: Raymond Joseph
+  date: 2017-11-13
+  url: https://www.youtube.com/watch?v=B8MVHk5qug4
+  image: cttv.jpg
+  paper: Cape Town TV
 - title: "The Global Gamble"
   author: Jeff Kelly Lowenstein and Raymond Joseph
   date: 2017-10-08
