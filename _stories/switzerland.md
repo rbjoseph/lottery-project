@@ -4,12 +4,12 @@ name: switzerland
 title: Switzerland
 story-title: "The heart of the global lottery industry"
 links:
-- title: "GVSU Professor Jeff Kelly Lowenstein"
-  author: Shelley Irwin 
-  date: 2017-10-06
-  url: http://wgvunews.org/post/gvsu-professor-jeff-kelly-lowenstein
-  image: wgvu.png
-  paper: WGVU
+- title: "Neues Spiel, neues Glück, alles für den guten Zweck?"
+  author: Daniel Stern and Jeff Kelly Lowenstein
+  date: 2017-11-23
+  url: https://www.woz.ch/1747/gluecksspiele-und-sportwetten/neues-spiel-neues-glueck-alles-fuer-den-guten-zweck
+  image: woz.jpg
+  paper: Die Wochenzeitung
 ---
 _[This story first appeared on eNCA.com on Tuesday 15 August 2017](http://www.enca.com/world/the-global-lottery-industrys-little-known-nerve-centre)_.
 
