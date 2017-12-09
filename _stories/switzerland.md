@@ -3,6 +3,13 @@ layout: story
 name: switzerland
 title: Switzerland
 story-title: "The heart of the global lottery industry"
+links:
+- title: "GVSU Professor Jeff Kelly Lowenstein"
+  author: Shelley Irwin 
+  date: 2017-10-06
+  url: http://wgvunews.org/post/gvsu-professor-jeff-kelly-lowenstein
+  image: wgvu.png
+  paper: WGVU
 ---
 _[This story first appeared on eNCA.com on Tuesday 15 August 2017](http://www.enca.com/world/the-global-lottery-industrys-little-known-nerve-centre)_.
 

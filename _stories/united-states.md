@@ -28,6 +28,12 @@ links:
   url: ../files/jackpot-tax-avoidance-khadija-sharife-wpj.pdf
   image: wpj.jpg
   paper: <a href="http://wpj.dukejournals.org/content/34/3/99.full">World Policy Journal</a>
+- title: "GVSU Professor Jeff Kelly Lowenstein"
+  author: Shelley Irwin 
+  date: 2017-10-06
+  url: http://wgvunews.org/post/gvsu-professor-jeff-kelly-lowenstein
+  image: wgvu.png
+  paper: WGVU
 - title: GVSU professor on team exposing the gaming of state lottery systems 
   author: Monica Scott
   date: 2017-09-27
