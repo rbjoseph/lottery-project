@@ -4,6 +4,12 @@ name: united-states
 title: United States
 story-title: "Defying the odds"
 links:
+- title: "Just how lucky are regular lottery winners?"
+  author: Charlotte McDonald
+  date: 2017-12-03
+  url: http://www.bbc.co.uk/programmes/w3csvq3h
+  image: bbc.jpg
+  paper: BBC World Service
 - title: "Feel like you belong"
   author: Jeff Kelly Lowenstein and Alan Headbloom
   date: 2017-10-31
