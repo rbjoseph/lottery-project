@@ -4,6 +4,36 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "GroundUp: Lottery money – R6bn for sport, only R2.8bn for education"
+  author: Roxanne Joseph and Raymond Joseph
+  date: 2018-02-21
+  url: https://www.dailymaverick.co.za/article/2018-02-21-groundup-lottery-money-r6bn-for-sport-only-r2.8bn-for-education/
+  image: groundup-2.jpg
+  paper: Daily Maverick
+- title: "SPCA dropped by Lottery"
+  author: Roxanne Joseph and Raymond Joseph
+  date: 2018-02-21
+  url: https://www.groundup.org.za/article/spca-dropped-lottery/
+  image: groundup-3.jpg
+  paper: GroundUp
+- title: "Lottery: R6 billion for sport, only R2.8 billion for education"
+  author: Roxanne Joseph and Raymond Joseph
+  date: 2018-02-20
+  url: https://www.groundup.org.za/article/lottery-r6-billion-sport-only-r28-billion-education/
+  image: groundup-2.jpg
+  paper: GroundUp
+- title: "How the Lotto money is spent"
+  author: Roxanne Joseph and Raymond Joseph
+  date: 2018-02-19
+  url: https://www.groundup.org.za/article/how-lotto-money-spent/
+  image: groundup-1.jpg
+  paper: GroundUp
+- title: "Middlemen hit jackpot: Lottopreneurs cash in on a change in the law"
+  author: Raymond Joseph, Roxanne Joseph, Siphe Macanda and Anton van Zyl
+  date: 2018-01-28
+  url: https://www.timeslive.co.za/sunday-times/news/2018-01-27-middlemen-hit-jackpot-lottopreneurs-cash-in-on-a-change-in-the-law/
+  image: times-live.jpg
+  paper: Times Live
 - title: "Following the path of the Lotto millions in Vhembe"
   author: Anton van Zyl
   date: 2017-11-19
@@ -20,13 +50,13 @@ links:
   author: Jeff Kelly Lowenstein and Raymond Joseph
   date: 2017-10-08
   url: ../files/the-global-gamble-lowenstein-joseph-wpj.pdf
-  image: wpj.jpg
+  image: wpj-sa.jpg
   paper: <a href="http://wpj.dukejournals.org/content/34/3/97.full">World Policy Journal</a>
 - title: "Jackpot Tax Avoidance: How One Lottery Company Hides its Billions"
   author: Khadija Sharife
   date: 2017-10-08
   url: ../files/jackpot-tax-avoidance-khadija-sharife-wpj.pdf
-  image: wpj.jpg
+  image: wpj-sa.jpg
   paper: <a href="http://wpj.dukejournals.org/content/34/3/99.full">World Policy Journal</a>
 - title: "Gaming the Lottery: Billions pour into SA Olympic body’s coffers"
   author: Raymond Joseph
@@ -58,7 +88,7 @@ links:
   url: https://www.enca.com/south-africa/about-the-south-african-lottery
   image: enca-3.jpg
   paper: eNCA
-- title: Gaming the system 
+- title: Gaming the system
   author: Khadija Sharife and Jeff Kelly Lowenstein
   date: 2017-08-14
   url: https://www.enca.com/south-africa/gaming-the-system
@@ -74,7 +104,7 @@ links:
 
 ### Who’s received money from lottery, how much and when? Use this tool to find out.
 
-Since the first grants to “good causes” were made by the South African Lottery in 2002, thousands of organisations have received funding of over R22-billion.  
+Since the first grants to “good causes” were made by the South African Lottery in 2002, thousands of organisations have received funding of over R22-billion.
 
 Lists of successful funding applications are published each year in the [annual reports](http://www.nlcsa.org.za/annual-reports/) of the National Lottery Commission (NLC). There are four categories under which grants are awarded: Charities, Arts, Culture and National Heritage, Sport and Recreation and Miscellaneous.
 
@@ -89,17 +119,17 @@ Be aware that, while in some cases we have cleaned up the data, grantees are som
 
 <p class="more-start"></p>
 
-If an organisation has an acronym, in this case SPCA, search for that too. Or if looking for a school or schools and are not sure of their exact names, begin your search with “school” and then search through the results for the one/s you’re looking for.  
+If an organisation has an acronym, in this case SPCA, search for that too. Or if looking for a school or schools and are not sure of their exact names, begin your search with “school” and then search through the results for the one/s you’re looking for.
 
 We’ve dug through the data to find stories about the lottery and some recipients. We invite you to do the same – and if you find anything you think we should follow-up on please send an email to <gamingthelot@gmail.com>.
 
 ### About the South African Lottery
 
-When the [South African Lottery](https://en.wikipedia.org/wiki/South_African_National_Lottery) was launched in South Africa in March 2000 it outlawed most other lottery-type games and scratch cards, badly affecting some non-profit organisations that were using these games for fund raising.  
+When the [South African Lottery](https://en.wikipedia.org/wiki/South_African_National_Lottery) was launched in South Africa in March 2000 it outlawed most other lottery-type games and scratch cards, badly affecting some non-profit organisations that were using these games for fund raising.
 
-A percentage of the weekly proceeds are paid over by the licensed lottery operator  – appointed every seven years and currently [Ithuba](http://ithubalottery.co.za/) - to the [National Lottery Commission](https://www.google.co.za/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwjX64TAisXVAhXhCsAKHS23AyoQFghCMAQ&url=https%3A%2F%2Fwww.nlcsa.org.za%2Four-history%2F&usg=AFQjCNHdu1FuuMemrHo5t-b94DTZ8AXCMQ), which is [regulated](http://www.nlcsa.org.za/regulations/)  by the [Department of Trade and Industry](http://www.dti.gov.za/agencies/nlc.jsp).  
+A percentage of the weekly proceeds are paid over by the licensed lottery operator  – appointed every seven years and currently [Ithuba](http://ithubalottery.co.za/) - to the [National Lottery Commission](https://www.google.co.za/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwjX64TAisXVAhXhCsAKHS23AyoQFghCMAQ&url=https%3A%2F%2Fwww.nlcsa.org.za%2Four-history%2F&usg=AFQjCNHdu1FuuMemrHo5t-b94DTZ8AXCMQ), which is [regulated](http://www.nlcsa.org.za/regulations/)  by the [Department of Trade and Industry](http://www.dti.gov.za/agencies/nlc.jsp).
 
-The money is allocated in terms of four categories: Charities, Sports and Recreation, Arts, Culture and National Heritage and Miscellaneous. Over the years almost R22- billion has been granted to “good causes”.  
+The money is allocated in terms of four categories: Charities, Sports and Recreation, Arts, Culture and National Heritage and Miscellaneous. Over the years almost R22- billion has been granted to “good causes”.
 
 Adjudications on funding applications are done by committees – known as distributing agencies – which are appointed by the Minister of Trade and Industry.
 
