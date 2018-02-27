@@ -4,6 +4,12 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "West Coast Fossil Park: A lottery success story"
+  author: Roxanne Joseph and Raymond Joseph
+  date: 2018-02-22
+  url: https://www.groundup.org.za/article/west-coast-fossil-park-lottery-success-story/
+  image: groundup-4.jpg
+  paper: GroundUp
 - title: "GroundUp: Lottery money – R6bn for sport, only R2.8bn for education"
   author: Roxanne Joseph and Raymond Joseph
   date: 2018-02-21
