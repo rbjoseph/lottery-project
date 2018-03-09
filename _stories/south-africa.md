@@ -34,6 +34,12 @@ links:
   url: https://www.timeslive.co.za/sunday-times/news/2018-01-27-middlemen-hit-jackpot-lottopreneurs-cash-in-on-a-change-in-the-law/
   image: times-live.jpg
   paper: Times Live
+- title: "Millions in South African Lottery Grants Administered by Chicken Farmer"
+  author: Raymond Joseph and Roxanne Joseph
+  date: 2017-12-22
+  url: https://www.occrp.org/en/investigations/7422-millions-in-south-african-lottery-grants-administered-by-chicken-farmer
+  image: ithuba.jpg
+  paper: OCCRP
 - title: "Following the path of the Lotto millions in Vhembe"
   author: Anton van Zyl
   date: 2017-11-19
