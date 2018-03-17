@@ -4,15 +4,15 @@ name: bolivia
 title: Bolivia
 story-title: "Bolivia’s new digital lottery is symptomatic of the nation’s bigger problems"
 ---
-_[This story first appeared on publish.org on Wednesday 07 March 2018](https://beta.publish.org/channel/ethics/commissions/15ce514988ef74f40de8a5b3d372c9c1/pitch/ef02507ef4af24d26f7f5e9310b13e26/post/ef02507ef4af24d26f7f5e9310b13e26)_.
+_This story, written by [Freddie Clayton](https://beta.publish.org/user/4b5d42fc51b604efa7cb08c7dc759912), first appeared on [publish.org on Wednesday 07 March 2018](https://beta.publish.org/channel/ethics/commissions/15ce514988ef74f40de8a5b3d372c9c1/pitch/ef02507ef4af24d26f7f5e9310b13e26/post/ef02507ef4af24d26f7f5e9310b13e26)_.
 
->As many Bolivians continue to struggle for food and access to safe water, the introduction of a new digital lottery in 2018 is symptomatic of the biggest problems currently facing the nation, and a solution only destined to make matters worse.
+![](/img/stories/bolivia-1.jpg)
 
 Gurly runs a newsstand in Sucre, Bolivia’s beautiful colonial capital. She works on the corner of the plaza, a crowded spot where locals jostle for space with tourists on their way to one of the city’s many museums. Nearby, crudely drawn cartoons from 90s TV shows are sprawled across the pavement, whilst teenagers take advantage of the perpetual sunshine to practice their breakdancing. A canopy protects Gurly from the midday sun, whilst on all sides she is surrounded by the garish green posters advertising this month’s national lottery, now only a week away.
 
 Every shop window has found space for posters and flyers advertising the lottery, whilst several uniquely numbered tickets are pinned to the wall next to where Gurly sits. She has been selling lottery tickets for eight years now, though she doesn’t play it herself, remarking that ‘only the people who really need it play the lottery.’
 
-![Image 1](url.png "Image 1")
+![](/img/stories/bolivia-2.jpg)
 
 In South America’s poorest nation there are many who could do with a top prize of more than $15,000: according to the World Bank, 38% of Bolivians were living below the poverty line in 2015, surviving on less than $1.90 a day.
 
@@ -34,7 +34,7 @@ Accordingly, the lottery’s mascot is a man dressed in traditional Andean cloth
 
 LONABOL’s take on the Ekeko features on every ticket and poster, and a real-life version even appears at every draw.
 
-![Image 2](url.png "Image 2")
+![](/img/stories/bolivia-3.jpg)
 
 Christina and her husband fall perfectly into the target market, down to the traditional outfits and household Ekeko. She sells newspapers from a table on the corner of the plaza whilst her husband polishes shoes just across the road - both low income jobs.
 
@@ -42,7 +42,7 @@ Christina tells me she’s been playing the lottery for forty years and her eyes
 
 She says she currently buys two to three tickets a month, a relatively harmless amount. However, purchasing that number of tickets for a weekly draw may amount to almost half her income, and Christina is happy to tell me that she’d play more if the lottery were once a week.
 
-![Image 3](url.png "Image 3")
+![](/img/stories/bolivia-4.jpg)
 
 ### Just trying to help?
 
@@ -64,7 +64,7 @@ Although LONABOL’s fund-raising methods may seem dysfunctional – targeting t
 
 The reliance on additional revenues for social services may be rooted in Bolivia’s ever-growing informal sector: 62.3% of Bolivia’s total economy is neither taxed nor monitored by the government, making it the largest informal economy in the world. In the city of El Alto, citizens were forced to construct their own sewage systems due to the lack of resources of the public and private sector – as well as a lack of interest. In the southern city of Potosi, state-run mines that were abandoned in the 90s have become a free for all, with many still digging to get their hands on any metal they can. As the formal sector shrinks so does tax revenue, which means less money in the pot for public services.
 
-![Image 4](url.png "Image 4")
+![](/img/stories/bolivia-5.jpg)
 
 Bolivian economist Juan Carlos Zuleta tells me over the phone that under the current administration the informal sector is likely to keep rising as government funding fails to fortify the public sector. ‘Much of the budget has gone to a very tiny part of the country: it has been used to fund very small projects or large projects will little success. A lot of money has been wasted and people are starting to realise that,’ he tells me.
 
