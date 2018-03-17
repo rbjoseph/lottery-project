@@ -3,6 +3,11 @@
 @import url('https://fonts.googleapis.com/css?family=Bitter|Open+Sans');
 
 // colours
+$purple: #962b88;
+$purple-opaque: rgba($purple, 0.3);
+$purple-light: lighten($purple, 10%);
+$purple-dark: darken($purple, 10%);
+
 $red: #CE1836;
 $red-opaque: rgba($red, 0.3);
 $red-light: lighten($red, 10%);
@@ -28,10 +33,10 @@ $blue-opaque: rgba($blue, 0.3);
 $blue-light: lighten($blue, 20%);
 $blue-dark: darkenr($blue, 10%);
 
-$purple: #009989;
-$purple-opaque: rgba($purple, 0.3);
-$purple-light: lighten($purple, 10%);
-$purple-dark: darken($purple, 10%);
+$turquoise: #009989;
+$turquoise-opaque: rgba($turquoise, 0.3);
+$turquoise-light: lighten($turquoise, 10%);
+$turquoise-dark: darken($turquoise, 10%);
 
 // fonts
 $sans: 'Open Sans', sans-serif;
@@ -127,24 +132,27 @@ h1, h2, h3, h4, h5 {
   li {
     border-bottom: 3px solid #ccc;
     &:nth-of-type(1n) {
-      border-bottom-color: $red;
-    }
-    &:nth-of-type(2n) {
-      border-bottom-color: $orange;
-    }
-    &:nth-of-type(3n) {
-      border-bottom-color: $yellow;
-    }
-    &:nth-of-type(4n) {
-      border-bottom-color: $green;
-    }
-    &:nth-of-type(5n) {
-      border-bottom-color: $blue;
-    }
-    &:nth-of-type(6n) {
       border-bottom-color: $purple;
     }
+    &:nth-of-type(2n) {
+      border-bottom-color: $red;
+    }
+    &:nth-of-type(3n) {
+      border-bottom-color: $orange;
+    }
+    &:nth-of-type(4n) {
+      border-bottom-color: $yellow;
+    }
+    &:nth-of-type(5n) {
+      border-bottom-color: $green;
+    }
+    &:nth-of-type(6n) {
+      border-bottom-color: $blue;
+    }
     &:nth-of-type(7n) {
+      border-bottom-color: $turquoise;
+    }
+    &:nth-of-type(8n) {
       border-bottom-color: #666;
     }
     a {
