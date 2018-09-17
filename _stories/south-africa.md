@@ -4,6 +4,12 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Mbulaheni stadium slowly gathers momentum"
+  author: Jon Allsop and Anton van Zyl
+  date: 2018-09-17
+  url: https://www.limpopomirror.co.za/articles/news/48237/2018-09-17/mbulaheni-stadium-slowly-gathers-momentum
+  image: sports_centre.jpg
+  paper: GroundUp
 - title: "West Coast Fossil Park: A lottery success story"
   author: Roxanne Joseph and Raymond Joseph
   date: 2018-02-22
