@@ -56,7 +56,7 @@ LONABOL’s efforts are more substantial when one considers what little they hav
 
 However, using targeted marketing to encourage low income individuals to play the lottery in order to raise funds for public services, is tantamount to a regressive tax on the poor. Though a higher turnover may lead to more struggling Bolivians receiving support and social assistance, these are the same people who will ultimately finance these projects.
 
-Speaking with individuals across Sucre, the lottery appears to be shunned by those who work for for the minimum wage as waiters, guides or even tiendas like Gurly. Here, charity is being charged to those with even less to give, and the vast majority of the estimated half a million players will not see any of the charity themselves. An increase in poverty is only likely to exacerbate the problems that LONABOL wants to help.
+Speaking with individuals across Sucre, the lottery appears to be shunned by those who work for the minimum wage as waiters, guides or even tiendas like Gurly. Here, charity is being charged to those with even less to give, and the vast majority of the estimated half a million players will not see any of the charity themselves. An increase in poverty is only likely to exacerbate the problems that LONABOL wants to help.
 
 ### Bolivia’s bigger problems
 
